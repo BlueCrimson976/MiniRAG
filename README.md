@@ -13,6 +13,7 @@ This application is a pretty minimalist RAG application , that works on simple p
 + sementic chunking 
 + image extraction from simple pdf (also available in 'uploaded references' folder created)
 + image gallary deletion (deletes all the images extracted from created folder)
++ Huggingface embedding
 + Chromadb vectorspace
 + toggling between qwen2.5:1.5b , qwen2-math:1.5b , deepseek-r1:1.5b  models from Ollama (default = qwen2.5:1.5b)
   
