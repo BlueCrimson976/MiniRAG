@@ -1,7 +1,7 @@
 ## MiniRAG Version 1
 
 ### To open the interface just type:
-        ***<directory> / python MiniRAG.py***    in the terminal.
+        <directory> / python MiniRAG.py  
 
 
 This application is a pretty minimalist RAG application , that works on simple pdfs .
