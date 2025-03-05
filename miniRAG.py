@@ -134,13 +134,7 @@ def main():
      st.session_state.messages = []
 
  if 'clicked' not in st.session_state:
-    st.session_state.clicked = False
-
- #if 'vectorstore' not in st.session_state:
-    #st.session_state.vectorstore = load_vectorstore(filepdf)   
-
- #if 'pdf_id' not in st.session_state:
-   # st.session_state.pdf_id = load_doc(filepdf)      
+    st.session_state.clicked = False   
                     
 
  user_query = st.chat_input('What are you looking for in the paper ? ')
