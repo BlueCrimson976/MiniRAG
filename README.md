@@ -5,9 +5,11 @@ This application is a pretty minimalist RAG application , that works on simple p
 
 #### Pre-requisites:
 + Needs Ollama , download following models 
+      '''
       +  qwen2.5:1.5b 
       +  qwen2-math:1.5b
       +  deepseek-r1:1.5b
+      '''
 
 #### Uses : 
 + sementic chunking 
