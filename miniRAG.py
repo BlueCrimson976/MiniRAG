@@ -5,8 +5,8 @@ from langchain_experimental.text_splitter import SemanticChunker
 from typing import List
 from langchain_core.documents import Document
 from langchain_core.runnables import chain
-from langchain.prompts import ChatPromptTemplate, PromptTemplate 
-from langchain_core.output_parsers import StrOutputParser , JsonOutputParser 
+from langchain.prompts import ChatPromptTemplate
+from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 from langchain_chroma import Chroma
 from langchain.schema import Document
