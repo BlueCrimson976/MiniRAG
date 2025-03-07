@@ -26,7 +26,7 @@ This application is a pretty minimalist RAG application , that works on simple p
   
 
 #### Bugs :
-+ Chromadb tnent error when changing pdf (needs the app needs to be exited and then try again to load chroma vectorspace again)
++ ~~Chromadb tnent error when changing pdf (needs the app needs to be exited and then try again to load chroma vectorspace again)~~ (FIXED)
 + Image extraction is accurate for research papers and articles but not much for other kinds of pdf
 
 #### Screenshots :
